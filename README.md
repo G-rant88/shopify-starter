@@ -1,1 +1,1 @@
-# shopify-starter test
+# shopify-starter testing
